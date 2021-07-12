@@ -4,7 +4,7 @@
 
 ### About me 
 
-- 📚 MMath Mathematics Graduate which done academic research in Machine Learning
+- 📚 MMath Mathematics graduate which done academic research in Machine Learning
 - 🚩 CTF player. Ranked top 0.5% on [TryHackMe](https://tryhackme.com)
 - 🤖 Intested in Machine Learning with medical applications
 
