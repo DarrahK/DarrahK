@@ -11,7 +11,7 @@
 
 ## ✍️ Note
 
-Most of my commits are private because they are related to my academic work or work.
+Most of my commits are private because they are related to my academic or commercial work.
 
 ### Current Academic Projects:
 
