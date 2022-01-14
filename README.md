@@ -4,16 +4,16 @@
 
 ## About me 
 
-- 🧑🏻‍💻 Backend Engineer at esenda
+- 🧑🏻‍💻 Backend Engineer at [esenda](https://esenda.com/)
 - 📚 MMath Mathematics graduate, with academic research in Machine Learning
 - 🚩 CTF player, ranked top 0.5% on [TryHackMe](https://tryhackme.com)
 - 🤖 Intested in Machine Learning with medical applications
 
-## ✍️ Note
+## ✍️ Notes
 
 Most of my commits are private because they are related to my academic or commercial work.
 
-### Current Academic Projects:
+### Academic Projects:
 
 - **Masters Dissertation: Machine Learning and Differential Equations**
 
