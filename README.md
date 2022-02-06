@@ -9,13 +9,13 @@
 - 🚩 CTF player, ranked top 0.5% on [TryHackMe](https://tryhackme.com)
 - 🤖 Intested in Machine Learning with medical applications
 
-## ✍️ Notes
+## ✍️ Note
 
 Most of my commits are private because they are related to my academic or commercial work.
 
-### Academic Projects:
+### Past Academic Projects:
 
-- **Masters Dissertation: Machine Learning and Differential Equations**
+- **[Masters Thesis: Machine Learning and Differential Equations](https://github.com/DarrahK/MMath)**
 
 	 - Reproducing results from the [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf) paper of generative latent function for time-series models in TensorFlow and investigated the ability of fitting and extrapolation of time series data of latent ODE models.
 
