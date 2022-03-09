@@ -7,6 +7,7 @@
 - 🧑🏻‍💻 Backend Engineer at [esenda](https://esenda.com/)
 - 📚 MMath Mathematics graduate, with academic research in Machine Learning
 - 🚩 CTF player, ranked top 0.5% on [TryHackMe](https://tryhackme.com)
+- 🖊️ [Blog](https://dev.to/darrah)
 - 🤖 Intested in Machine Learning with medical applications
 
 ## ✍️ Note
