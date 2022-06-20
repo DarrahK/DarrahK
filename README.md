@@ -4,7 +4,7 @@
 
 ## About me 
 
-- 🧑🏻‍💻 Backend Engineer at [esenda](https://esenda.com/)
+- 🧑🏻‍💻 Software Engineer at [XY Capital](https://www.xycapitalgroup.com/)
 - 📚 MMath Mathematics graduate, with academic research in Machine Learning
 - 🚩 CTF player, ranked top 0.5% on [TryHackMe](https://tryhackme.com)
 - 🖊️ [Blog](https://dev.to/darrah)
